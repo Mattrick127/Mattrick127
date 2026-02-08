@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hello! My name is Matthew Wilson! 👋
 
 <!--
 **Mattrick127/Mattrick127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Lately I'm working on looking for a new job as I'm trying so desperately to maintain a balance between working a job, going to school, making my wife happy, and creating memories with my newborn son.
+# I'm currently learning a variety of languages, such as python, java, SQL, javascript.
+# Right now I'm not picky on what to collaborate on. It's the experience behind the job that I'm craving.
+# I am looking for help with finding a community that will be helpful to me in my pursuit for knowledge.
+# I'm familiar with a few things, but I'm moreso familiar with some git commands.
+# You can reach me via my email: mattrick2214@gmail.com
+# I'm a super galactic celestial being trapped in a flesh suit with this...appetite for burritos.
+# I named my son Calvin NOT AFTER Calvin Klein...but after Calvin and Hobbes. He has his own Hobbes crochet replica too.
