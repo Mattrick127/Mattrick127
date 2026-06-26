@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 # I am looking for help with finding a community that will be helpful to me in my pursuit for knowledge.
 # I'm familiar with a few things, but I'm moreso familiar with some git commands.
 # You can reach me via my email: mattrick2214@gmail.com
-# I'm a super galactic celestial being trapped in a flesh suit with this...appetite for burritos.
-# I named my son Calvin NOT AFTER Calvin Klein...but after Calvin and Hobbes. He has his own Hobbes crochet replica too.
